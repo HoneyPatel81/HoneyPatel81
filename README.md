@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Honey Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right"alt="coding"width="400"src="![image](https://github.com/HoneyPatel81/HoneyPatel81/assets/119737940/6291f466-2393-4005-99c4-34f1343ea54a)">
+![image](https://github.com/HoneyPatel81/HoneyPatel81/assets/119737940/6291f466-2393-4005-99c4-34f1343ea54a)
 - 📫 How to reach me **ph904563@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
