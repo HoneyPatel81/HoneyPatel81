@@ -1,3 +1,4 @@
+![logo](https://github.com/HoneyPatel81/HoneyPatel81/blob/main/HONEY_PATELComputer_Engineer.png)
 <h1 align="center">Hi 👋, I'm Honey Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
